@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Software engineer at Senai<br>👯 I’m looking to collaborate on flutter projects<br>🤝 I’m looking for help with automation and phyton<br>🌱 I’m currently learning phyton and figma <br>⚡ Interested in cybersecurity and IA
+🔭 Software engineer at Senai<br>👯 I’m looking to collaborate on flutter projects<br>🤝 I’m looking for help with automation and phyton<br>🌱 I’m currently learning phyton and figma <br>⚡ Interested in cybersecurity and IA ![image](https://user-images.githubusercontent.com/85576168/203363377-fa5ca891-b9e6-404e-bd9b-2301012258fb.png) Droid´s fan
+
 
 
 # 💻 Tech Stack:
