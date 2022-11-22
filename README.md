@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Software engineer at Senai<br>👯 I’m looking to collaborate on flutter projects<br>🤝 I’m looking for help with automation and phyton<br>🌱 I’m currently learning phyton and figma <br>⚡ Interested in cybersecurity and IA 
 
-<img src="https://user-images.githubusercontent.com/85576168/203365751-25d28e24-e3f7-4916-82de-cf9ad10d0d81.png"  width="50" height="55"><img src="https://user-images.githubusercontent.com/85576168/203366585-f79b6b85-5e8f-4b40-bfde-90fdd12ea564.png"  width="50" height="55"><img src="https://user-images.githubusercontent.com/85576168/203366829-e845b2ab-6b35-4a9c-a88a-4b0193a7e5cf.png"  width="50" height="55">
+<img src="https://user-images.githubusercontent.com/85576168/203365751-25d28e24-e3f7-4916-82de-cf9ad10d0d81.png"  width="50" height="55"><img src="https://user-images.githubusercontent.com/85576168/203366585-f79b6b85-5e8f-4b40-bfde-90fdd12ea564.png"  width="50" height="52"><img src="https://user-images.githubusercontent.com/85576168/203366829-e845b2ab-6b35-4a9c-a88a-4b0193a7e5cf.png"  width="50" height="55">
 
 
 
