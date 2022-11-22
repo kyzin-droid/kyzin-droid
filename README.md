@@ -1,7 +1,8 @@
 # 💫 About Me:
 🔭 Software engineer at Senai<br>👯 I’m looking to collaborate on flutter projects<br>🤝 I’m looking for help with automation and phyton<br>🌱 I’m currently learning phyton and figma <br>⚡ Interested in cybersecurity and IA 
 
-![starwars](https://user-images.githubusercontent.com/85576168/203363737-22760400-e169-4f10-960d-2160f05d0d83.png) Droid´s fan
+![Screenshot_9](https://user-images.githubusercontent.com/85576168/203364252-1b48fc74-6805-47e4-8e60-585aa26d0e62.png)
+Droid´s fan
 
 
 
